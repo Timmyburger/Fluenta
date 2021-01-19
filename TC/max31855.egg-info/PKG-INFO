@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: max31855
+Version: 2.0
+Summary: Python driver for MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter
+Home-page: https://github.com/Tuckie/max31855
+Author: Tuckie
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
